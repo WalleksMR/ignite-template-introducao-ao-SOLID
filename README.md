@@ -1,4 +1,4 @@
-# Ignite Template Introducao ao SOLID
+# Ignite Template Introdução ao SOLID
 
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no Node.js!
 
